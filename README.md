@@ -7,3 +7,5 @@ Here, I will try to summarize what I have learned and understood using as quick 
 
 ## 学习资料
 来源1：[通往AGI之路](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e) 感谢您提供的好平台好文章！
+
+来源2：[yczealot/GPT-Knowledge-Index](https://github.com/yczealot/GPT-Knowledge-Index/wiki/AI%E7%9F%A5%E8%AF%86%E7%B4%A2%E5%BC%95)
