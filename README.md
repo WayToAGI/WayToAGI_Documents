@@ -9,9 +9,8 @@ Here, I will try to summarize what I have learned and understood using as quick 
 I will utilize the recommended Bloom's taxonomy learning pathway from "waytoagi" for quick learning summarization.
 
 ## 目录
-1.[AI的历史/AGI_history](https://github.com/WayToAGI/WayToAGI_Documents/blob/main/AGI_history)
-
-
+1.[AI的历史/AGI_history](https://github.com/WayToAGI/WayToAGI_Documents/blob/main/AGI_history.md)
+2.[AGI相关基础名称解释/AGI_Basic_noun_explanations](https://github.com/WayToAGI/WayToAGI_Documents/blob/main/AGI_Basic_noun_explanations.md)
 ## 学习资料
 来源1：[waytoagi/通往AGI之路](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e) 感谢您提供的好平台好文章！
 
